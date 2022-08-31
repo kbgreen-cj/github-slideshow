@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+[] Brackets markdown
+## Double hash tag markdown
 Use the left arrow to go back!
